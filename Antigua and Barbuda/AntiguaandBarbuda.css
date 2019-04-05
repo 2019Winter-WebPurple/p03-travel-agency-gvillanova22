@@ -1,0 +1,27 @@
+/* Gia Villanova
+* April 9, 2019
+* Antigua and Barbuda Website
+*/
+
+* {
+    
+
+}
+
+body { background-color: aliceblue; }
+   
+
+
+table, td, th { border: 1px solid gray; }
+table { border-collapse: collapse; }
+thead {background-color: lavender; }
+tbody {background-color: white; }
+/* Table colors and design */
+
+
+img  {height:200px;
+      width: 300px;}
+
+#shore {width: 300px; height: 200px;}
+
+/* The different image sizes for the images used in my website */
